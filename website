@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Rebecca Nicholson — Digital Education Research</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="Rebecca Nicholson, digital education, HCI, teacher autonomy" name="keywords">
+    <meta content="Rebecca Nicholson — researcher working across computing and education at Northumbria University." name="description">
+
+    <!-- Favicon -->
+    <link href="img/favicon.ico" rel="icon">
+
+    <!-- Google Web Fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet"> 
+
+    <!-- Font Awesome -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body data-spy="scroll" data-target=".navbar" data-offset="51">
+    <!-- Navbar Start -->
+    <nav class="navbar fixed-top shadow-sm navbar-expand-lg bg-light navbar-light py-3 py-lg-0 px-lg-5">
+        <a href="index.html" class="navbar-brand ml-lg-3">
+            <h1 class="m-0 display-5"><span class="text-primary">Free</span>Folio</h1>
+        </a>
+        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse px-lg-3" id="navbarCollapse">
+            <div class="navbar-nav m-auto py-0">
+                <a href="#home" class="nav-item nav-link active">Home</a>
+                <a href="#about" class="nav-item nav-link">About</a>
+                <a href="#research" class="nav-item nav-link">Research</a>
+                <a href="#publications" class="nav-item nav-link">Publications</a>
+                <a href="blog/index.html" class="nav-item nav-link">Blog</a>
+                <a href="#contact" class="nav-item nav-link">Contact</a>
+            </div>
+        </div>
+    </nav>
+    <!-- Navbar End -->
+
+
+    <!-- Header Start -->
+    <div class="container-fluid bg-primary d-flex align-items-center mb-5 py-5" id="home" style="min-height: 100vh;">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-5 px-5 pl-lg-0 pb-5 pb-lg-0">
+                    <img class="img-fluid w-100 rounded-circle shadow-sm" src="img/RN Photo.png" alt="">
+                </div>
+                <div class="col-lg-7 text-center text-lg-left">
+                    <h3 class="text-white font-weight-normal mb-3">I'm</h3>
+                    <h1 class="display-3 text-uppercase text-primary mb-2" style="-webkit-text-stroke: 2px #ffffff;">Rebecca Nicholson</h1>
+                    <h1 class="typed-text-output d-inline font-weight-lighter text-white"></h1>
+                    <div class="typed-text d-none">Academic, Digital Education, Creative Pedagogies</div>
+                    <div class="d-flex align-items-center justify-content-center justify-content-lg-start pt-5">
+                        <a href="" class="btn btn-outline-light mr-5">Download CV</a>
+                        <a href="#contact" class="btn btn-light">Get in touch</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Header End -->
+
+
+    <!-- About Start -->
+    <div class="container-fluid py-5" id="about">
+        <div class="container">
+            <div class="position-relative d-flex align-items-center justify-content-center">
+                <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;">About</h1>
+                <h1 class="position-absolute text-uppercase text-primary">About Me</h1>
+            </div>
+            <div class="row align-items-center justify-content-center">
+                <div class="col-lg-9">
+                    <h3 class="mb-4">I am an Assistant Professor at Northumbria University</h3>
+                    <p>My research interests are in digital education, where I explore the use of digital technologies in teachers' pedagogies. I am particularly interested in the ways in which digital technologies can be used to support teachers to enact creative pedagogies. I often explore the potential roles of digital technologies in supporting teachers to navigate the complex policy dynamics of educational systems.</p>
+                    <p>I lead the Digital Education Futures research group.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- About End -->
+
+
+    <!-- Qualification Start -->
+    <div class="container-fluid py-5" id="qualification">
+        <div class="container">
+            <div class="position-relative d-flex align-items-center justify-content-center">
+                <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;">History</h1>
+                <h1 class="position-absolute text-uppercase text-primary">Education &amp; Experience</h1>
+            </div>
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <h3 class="mb-4">Education</h3>
+                    <div class="border-left border-primary pt-2 pl-4 ml-2">
+                        <div class="position-relative mb-4">
+                            <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px; left: -32px;"></i>
+                            <h5 class="font-weight-bold mb-1">PhD Education</h5>
+                            <p class="mb-2"><strong>Newcastle University</strong> | <small>2022</small></p>
+                            
+                        </div>
+                        <div class="position-relative mb-4">
+                            <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px; left: -32px;"></i>
+                            <h5 class="font-weight-bold mb-1">MRes Digital Civics</h5>
+                            <p class="mb-2"><strong>Newcastle University</strong> | <small>2018</small></p>
+                            
+                        </div>
+                        <div class="position-relative mb-4">
+                            <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px; left: -32px;"></i>
+                            <h5 class="font-weight-bold mb-1">BA (Hons) Music</h5>
+                            <p class="mb-2"><strong>Newcastle University</strong> | <small>2008</small></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <h3 class="mb-4">Experience</h3>
+                    <div class="border-left border-primary pt-2 pl-4 ml-2">
+                        <div class="position-relative mb-4">
+                            <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px; left: -32px;"></i>
+                            <h5 class="font-weight-bold mb-1">Assistant Professor</h5>
+                            <p class="mb-2"><strong>Northumbria University</strong> | <small>2022 - Current</small></p>
+                        </div>
+                        <div class="position-relative mb-4">
+                            <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px; left: -32px;"></i>
+                            <h5 class="font-weight-bold mb-1">Research Consultant </h5>
+                            <p class="mb-2"><strong>Various</strong> | <small>2021-2022</small></p>
+                        </div>
+                        <div class="position-relative mb-4">
+                            <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px; left: -32px;"></i>
+                            <h5 class="font-weight-bold mb-1">Secondary Teacher</h5>
+                            <p class="mb-2"><strong>Kenton</strong> | <small>2013-2017</small></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Qualification End -->
+
+
+    <!-- Publications Start -->
+    <div class="container-fluid py-5" id="publications">
+        <div class="container">
+            <div class="position-relative d-flex align-items-center justify-content-center">
+                <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;">Publications</h1>
+                <h1 class="position-absolute text-uppercase text-primary">Selected Work</h1>
+            </div>
+            <!--
+              Placeholder entries — replace with your real publication list.
+              Keep the same markup (border rounded p-4 mb-3) so new entries
+              stay styled consistently.
+            -->
+            <div class="row justify-content-center">
+                <div class="col-lg-9">
+                    <div class="border rounded p-4 mb-3">
+                        <h5 class="font-weight-bold mb-1">Add your publication title here</h5>
+                        <p class="text-muted mb-0">Authors · Venue · Year</p>
+                    </div>
+                    <div class="border rounded p-4 mb-3">
+                        <h5 class="font-weight-bold mb-1">Add your publication title here</h5>
+                        <p class="text-muted mb-0">Authors · Venue · Year</p>
+                    </div>
+                    <div class="border rounded p-4 mb-3">
+                        <h5 class="font-weight-bold mb-1">Add your publication title here</h5>
+                        <p class="text-muted mb-0">Authors · Venue · Year</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Publications End -->
+
+
+
+
+
+    <!-- Research Start -->
+    <div class="container-fluid pt-5 pb-3" id="research">
+        <div class="container">
+            <div class="position-relative d-flex align-items-center justify-content-center">
+                <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;">Research</h1>
+                <h1 class="position-absolute text-uppercase text-primary">Two Parallel Strands</h1>
+            </div>
+            <div class="row">
+                <div class="col-lg-6 mb-4">
+                    <div class="border rounded p-4 h-100">
+                        <h4 class="font-weight-bold mb-3">Designing for autonomy</h4>
+                        <p>HCI and co-design work building systems that safeguard teachers' professional autonomy and open up space for creative pedagogies.</p>
+                        <p class="text-primary font-weight-bold mb-0">Global Classroom &middot; Boundless &middot; Gig Academy</p>
+                    </div>
+                </div>
+                <div class="col-lg-6 mb-4">
+                    <div class="border rounded p-4 h-100">
+                        <h4 class="font-weight-bold mb-3">Examining constraint</h4>
+                        <p>Critical and qualitative work examining the conditions under which accountability and audit infrastructures constrain professional judgement.</p>
+                        <p class="text-primary font-weight-bold mb-0">The Dampened Curriculum &middot; AIDT &middot; IFRC &middot; LEGO / ZAR</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Research End -->
+
+
+
+
+
+    <!-- Blog Start -->
+    <div class="container-fluid pt-5" id="blog">
+        <div class="container">
+            <div class="position-relative d-flex align-items-center justify-content-center">
+                <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;">Blog</h1>
+                <h1 class="position-absolute text-uppercase text-primary">Latest Blog</h1>
+            </div>
+            <div class="row">
+                <!-- BLOG_TEASER_START -->
+                <div class="col-lg-4 mb-5">
+                    <div class="position-relative mb-4">
+                        <img class="img-fluid rounded w-100" src="img/blog-1.jpg" alt="">
+                        <div class="blog-date">
+                            <h4 class="font-weight-bold mb-n1">10</h4>
+                            <small class="text-white text-uppercase">Sep</small>
+                        </div>
+                    </div>
+                    <h5 class="font-weight-medium mb-4">A short note</h5>
+                    <a class="btn btn-sm btn-outline-primary py-2" href="blog/posts/a-short-note.html">Read More</a>
+                </div>
+                <div class="col-lg-4 mb-5">
+                    <div class="position-relative mb-4">
+                        <img class="img-fluid rounded w-100" src="img/blog-2.jpg" alt="">
+                        <div class="blog-date">
+                            <h4 class="font-weight-bold mb-n1">05</h4>
+                            <small class="text-white text-uppercase">Sep</small>
+                        </div>
+                    </div>
+                    <h5 class="font-weight-medium mb-4">An example project update</h5>
+                    <a class="btn btn-sm btn-outline-primary py-2" href="blog/posts/an-example-project-update.html">Read More</a>
+                </div>
+                <div class="col-lg-4 mb-5">
+                    <div class="position-relative mb-4">
+                        <img class="img-fluid rounded w-100" src="img/blog-3.jpg" alt="">
+                        <div class="blog-date">
+                            <h4 class="font-weight-bold mb-n1">01</h4>
+                            <small class="text-white text-uppercase">Sep</small>
+                        </div>
+                    </div>
+                    <h5 class="font-weight-medium mb-4">Welcome to the blog</h5>
+                    <a class="btn btn-sm btn-outline-primary py-2" href="blog/posts/welcome-to-the-blog.html">Read More</a>
+                </div>
+            <!-- BLOG_TEASER_END -->
+            </div>
+            <div class="text-center">
+                <a href="blog/index.html" class="btn btn-outline-primary">Read all posts</a>
+            </div>
+        </div>
+    </div>
+    <!-- Blog End -->
+
+
+    <!-- Contact Start -->
+    <div class="container-fluid py-5" id="contact">
+        <div class="container">
+            <div class="position-relative d-flex align-items-center justify-content-center">
+                <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;">Contact</h1>
+                <h1 class="position-absolute text-uppercase text-primary">Contact Me</h1>
+            </div>
+            <div class="row justify-content-center text-center">
+                <div class="col-lg-8">
+                    <p class="mb-3">The easiest way to reach me is by email.</p>
+                    <!--
+                      Email is assembled by js/email-obfuscate.js rather than written
+                      out here, so it never appears as plain text in the page source
+                      for scrapers to pick up. With JavaScript disabled, this falls
+                      back to a plain (non-clickable) obfuscated version.
+                    -->
+                    <h4 id="email-display" class="font-weight-bold text-primary">
+                        rebecca [dot] nicholson [at] northumbria [dot] ac [dot] uk
+                    </h4>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Contact End -->
+
+
+    <!-- Footer Start -->
+    <div class="container-fluid bg-primary text-white mt-5 py-5 px-sm-3 px-md-5">
+        <div class="container text-center py-5">
+            <div class="d-flex justify-content-center mb-4">
+                <!-- Add your real profile links here, e.g. LinkedIn, Google Scholar, GitHub -->
+                <a class="btn btn-light btn-social mr-2" href="#"><i class="fab fa-linkedin-in"></i></a>
+                <a class="btn btn-light btn-social" href="#"><i class="fab fa-twitter"></i></a>
+            </div>
+            <p class="m-0">&copy; <span id="year"></span> <span class="font-weight-bold">Rebecca Nicholson</span>. Template by <a class="text-white font-weight-bold" href="https://htmlcodex.com">HTML Codex</a>
+            </p>
+        </div>
+    </div>
+    <!-- Footer End -->
+
+    <!-- Scroll to Bottom -->
+    <i class="fa fa-2x fa-angle-down text-white scroll-to-bottom"></i>
+
+    <!-- Back to Top -->
+    <a href="#" class="btn btn-outline-dark px-0 back-to-top"><i class="fa fa-angle-double-up"></i></a>
+
+
+    <!-- JavaScript Libraries -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+    <script src="lib/typed/typed.min.js"></script>
+    <script src="lib/easing/easing.min.js"></script>
+
+    <!-- Contact Email -->
+    <script src="js/email-obfuscate.js"></script>
+
+    <!-- Template Javascript -->
+    <script src="js/main.js"></script>
+    <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+</body>
+
+</html>
+ 
+
+ => FREE HTML TEMPLATE LICENSE BY HTML Codex
+
+ All free HTML templates by HTML Codex are licensed under a Creative Commons Attribution 4.0 International License which means you are not allowed to remove the author�s credit link/attribution link/backlink.
+
+ When you download or use our free HTML templates, it will attribute the following conditions.
+
+
+ => YOU ARE ALLOWED
+
+      1. You are allowed to use for your personal and commercial purposes.
+
+      2. You are allowed to modify/customize however you like.
+
+      3. You are allowed to convert/port for use for any CMS.
+
+      4. You are allowed to share/distribute under the HTML Codex brand name.
+
+      5. You are allowed to put a screenshot or a link on your blog posts or any other websites.
+
+
+ => YOU ARE NOT ALLOWED
+
+      1. You are not allowed to remove the author�s credit link/attribution link/backlink without purchasing Credit Removal License ( https://htmlcodex.com/credit-removal ).
+
+      2. You are not allowed to sell, resale, rent, lease, license, or sub-license.
+
+      3. You are not allowed to upload on your template websites or template collection websites or any other third party websites without our permission.
+
+ This license can be terminated if you breach any of these conditions.
+
+ Please contact us (https://htmlcodex.com/contact) if you have any query.
+
+ => PURCHASE CREDIT REMOVAL LICENSE ( https://htmlcodex.com/credit-removal )
+  =>  Template Name    : FreeFolio - Freelancer Portfolio Template
+
+  =>  Template Link    : https://htmlcodex.com/freelancer-portfolio-template
+
+  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+
+  =>  Template Author  : HTML Codex
+
+  =>  Author Website   : https://htmlcodex.com
+
+  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+# Rebecca Nicholson — personal site
+
+Built from your original "freelancer-portfolio-template" (FreeFolio /
+HTML Codex), restyled with your real content and a separate blog
+section. The colors, fonts, and hero/section styling are all the
+original template's own `css/style.css` — untouched — so this matches
+what you originally had, not a guess at it.
+
+## Structure
+
+```
+index.html          Landing page (single scrollable page)
+css/style.css        Original template stylesheet — untouched, all your colors/fonts
+css/blog.css         Small addition for the blog's left-nav layout (uses the same --primary green)
+img/                 Images — includes your real hero photo (RN Photo.png)
+js/main.js           Trimmed template JS (kept: nav scroll, typed tagline, back-to-top;
+                     removed: video modal, skill bars, portfolio filter, testimonial carousel —
+                     since those sections were replaced, see "What changed" below)
+lib/                 Typed.js + easing (used by the tagline and smooth-scroll)
+blog/                Generated — do not edit these files directly
+  index.html
+  posts/*.html
+blog_src/            Source files for the blog — edit these
+  posts/*.md          One Markdown file per post
+  build_blog.py       Regenerates blog/ from posts/*.md
+  template_post.html  Layout template for a single post
+  template_index.html Layout template for the blog listing page
+```
+
+## What changed from the original template
+
+- Fixed the About section — it had broken markup (an invalid `col-lg-15`
+  class and a stray closing tag) that was likely why it wasn't
+  displaying properly.
+- Removed two stock photos (`about.jpg`, `profile.jpg`) that were
+  leftover placeholder images of a model, not you.
+- Replaced the generic freelancer sections with real content, styled
+  with the same theme's own classes so they still look native:
+  - "Skills" (HTML/CSS/PHP percentage bars) → **Publications** (placeholder entries — add your real list)
+  - "Services" (Web Design/SEO/etc.) → removed
+  - "Portfolio" (stock image gallery) → **Research** (your two strands, with project names)
+  - "Testimonials" (fake client quotes) → removed
+- The "Blog" nav link now goes to a separate blog section (`blog/index.html`)
+  with a left-hand post menu, instead of scrolling to an in-page anchor.
+- Removed the video modal and "Play Video" button (there was no real video
+  behind it), and the "Hire Me" button (not relevant here).
+- Trimmed `js/main.js` and removed the isotope/lightbox/owl-carousel/waypoints
+  libraries, since the sections that used them are gone.
+
+## Adding a new blog post
+
+1. Go to `blog_src/posts/`.
+2. Copy an existing `.md` file as a starting point.
+3. Rename it — the filename itself doesn't matter much, but starting it
+   with the date keeps the folder sorted, e.g. `2026-10-03-some-title.md`.
+4. Edit the front matter at the top:
+   ```
+   ---
+   title: Your post title
+   date: 2026-10-03
+   ---
+   ```
+5. Write the body in Markdown underneath.
+6. From the site's root folder, run:
+   ```
+   python3 blog_src/build_blog.py
+   ```
+   This regenerates every post page, the blog index, and the three
+   "Latest Blog" teaser cards on the landing page — so you never
+   hand-edit the sidebar or the teaser cards yourself.
+
+Requires Python 3 with `markdown` and `pyyaml` (`pip install markdown pyyaml`).
+
+## Contact
+
+Instead of a contact form, the Contact section just shows your email
+address, assembled at runtime by `js/email-obfuscate.js` rather than
+written out as plain text in the page source. This isn't bulletproof
+against every scraper, but it stops the simple ones that just
+regex-match static HTML for "name@domain" patterns. With JavaScript
+disabled, visitors see a readable but non-clickable fallback
+("rebecca [dot] nicholson [at] northumbria [dot] ac [dot] uk").
+
+**Double-check the address is right** — I used
+`rebecca.nicholson@northumbria.ac.uk` based on the standard Northumbria
+naming convention, but I haven't confirmed this is your actual address.
+To change it, edit the two arrays near the top of
+`js/email-obfuscate.js`:
+```js
+var user = ["rebecca", "nicholson"].join(".");
+var domain = ["northumbria", "ac", "uk"].join(".");
+```
+and update the matching fallback text in `index.html`'s Contact section
+(the `<h4 id="email-display">` element) to match.
+
+## Viewing locally
+
+```
+python3 -m http.server 8000
+```
+Then open http://localhost:8000.
+
+## License note
+
+The original template is licensed under CC BY 4.0 by HTML Codex, which
+requires keeping an attribution link (kept in the footer: "Template by
+HTML Codex"). If you'd rather remove it, HTML Codex sells a credit-removal
+license — see https://htmlcodex.com/credit-removal.
+
+## Things still to fill in
+
+- **Publications**: three placeholder entries in the Publications section — add your real list.
+- **CV link**: "Download CV" currently points nowhere (`href="#"`) — add a PDF and update the link.
+- **Email address**: confirm `rebecca.nicholson@northumbria.ac.uk` is correct in `js/email-obfuscate.js` (see "Contact" above) — I guessed it from convention, not confirmed.
+- **Social links**: the two footer icons (LinkedIn/Twitter) currently point nowhere — add your real profile URLs.
+- **Favicon**: `img/favicon.ico` is referenced but wasn't in the uploaded template folder — add one if you want a tab icon.
